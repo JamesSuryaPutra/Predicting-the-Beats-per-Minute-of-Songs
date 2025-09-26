@@ -11,4 +11,5 @@ Submissions are evaluated using the Root Mean Squared Error between the predicte
 
 # Submission File
 For each id in the test set, you must predict a continuous-valued BeatsPerMinute. The file should contain a header and have the following format:
+
 <img width="602" height="120" alt="submission" src="https://github.com/user-attachments/assets/ac850073-04c6-42df-a464-6be63162efdd" />
